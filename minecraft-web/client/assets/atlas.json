@@ -1,0 +1,14 @@
+{
+  "tileSize": 16,
+  "grid": [8, 8],
+  "blocks": {
+    "grass_top": 0,
+    "grass_side": 1,
+    "dirt": 2,
+    "stone": 3,
+    "sand": 4,
+    "log": 5,
+    "leaves": 6,
+    "torch": 7
+  }
+}
