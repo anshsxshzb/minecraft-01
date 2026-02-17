@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-web",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.18.0"
+  }
+}
